@@ -6,4 +6,4 @@
 
 🌐 Conecte-se comigo e vamos codificar juntos!
 
-LinkedIn -> www.linkedin.com/in/igor-cavalcante-25b944265
+Linkedin -> www.linkedin.com/in/igor-cavalcante-25b944265
