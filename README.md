@@ -1,8 +1,8 @@
 👋 Olá, sou Igor Cavalcante!
 
-🚀 Estudante de Sistemas para Internet apaixonado por desenvolvimento web e tecnologias inovadoras. Atualmente, estou aprimorando minhas habilidades em HTML, CSS, JavaScript e PHP interagindo com banco de dados Mysql. Comprometido com a busca incessante pelo aprendizado, estou em constante evolução e pronto para enfrentar novos desafios no mundo da programação.
+🚀 Desenvolvedor backend com experiência em Node.js (Express) e Java, trabalhando com bancos de dados PostgreSQL e MongoDB. Focado em criar APIs e sistemas eficientes.
 
-🛠️ No meu repositório, você encontrará projetos que refletem minha jornada de aprendizado e experiência. Deixe-me saber suas opiniões, sugestões e ideias colaborativas!
+🛠️ Aqui no repositório, compartilho projetos e experimentos da minha jornada no desenvolvimento. Sugestões e colaborações são bem-vindas!
 
 🌐 Conecte-se comigo e vamos codificar juntos!
 
